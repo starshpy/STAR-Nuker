@@ -33,9 +33,11 @@
 
 
 이 프로그램은 x444라는 프로그램의 v2 버전이며 한국어와 간단한 exe방식으로 변한 STAR-Nuker입니다.
+
 이 프로그램은 유료로 판매되거나 악성 소스코드가 없습니다. 오직 순수한 목적으로 한국어를 탑재하여 공유되는 exe프로그램입니다.
 
 This program is a v2 version of the program called x444 and is STAR-Nuker, which has changed to Korean and simple exe method.
+
 This program is not sold for a fee or has no malicious source code. It is an exe program that is shared with Korean on board for pure purposes only.
 
 [원작자의 깃허브](https://github.com/notspeezy/x444-Nuker)
