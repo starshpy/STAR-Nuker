@@ -22,6 +22,12 @@
 - [x] 채널 메시지 도배(Spam)
 - [x] `config.json` 파일에서 채널/역할 이름 및 메시지를 무작위(Random) 선택하는 기능
 
+## 프로그램 인터페이스
+
+![STAR 종합 다운로더 UI](https://github.com/starshpy/STAR-Nuker/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-31%20065818.png)
+
+---
+
 ## 연락처
 - 디스코드(Discord): star._.0412
 
