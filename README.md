@@ -33,5 +33,6 @@ This program is a v2 version of the program called x444 and is STAR-Nuker, which
 This program is not sold for a fee or has no malicious source code. It is an exe program that is shared with Korean on board for pure purposes only.
 
 [원작자의 깃허브](https://github.com/notspeezy/x444-Nuker)
+
 [Original GitHub](https://github.com/notspeezy/x444-Nuker)
 
