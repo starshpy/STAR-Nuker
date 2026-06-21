@@ -24,7 +24,7 @@
 
 ## 프로그램 인터페이스
 
-![STAR 종합 다운로더 UI](https://github.com/starshpy/STAR-Nuker/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-31%20065818.png)
+![STAR 종합 다운로더 UI](https://github.com/starshpy/STAR-Nuker/blob/main/2026-05-31_065818.png)
 
 ---
 
